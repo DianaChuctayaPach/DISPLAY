@@ -36,10 +36,23 @@ body{
 }
 #ejercicio4{
     padding: none;
+
     display: inline-block;
     /*margin: 40px;*/
     height: 60px;
 
 }
-
+.ejer5_1{
+    display: inline-block;
+    border: 2px solid red;
+    background-color: transparent;
+    margin: 20px;
+    padding: 10px;
+}
+#ejercicio5{
+    border: 2px solid red;
+    background-color: transparent;
+    display: inline-block;
+    margin: 10px
+}
 
