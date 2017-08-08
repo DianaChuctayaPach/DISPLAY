@@ -1,6 +1,6 @@
 
 body{
-    background: black;
+    background: grey;
 }
 .p1{
     background-color: #B23148;
@@ -20,7 +20,7 @@ body{
     /*height: 100px;*/
     padding: 20px;
 }
-p{
+#ejercicio1{
     display: block;
     margin: 20px;
 }
